@@ -1,0 +1,2 @@
+# fast-checker
+Random code
